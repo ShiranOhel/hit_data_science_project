@@ -1,0 +1,7 @@
+pandas==1.5.2
+beautifulsoup4==4.11.1
+selenium==4.7.2
+matplotlib==3.6.3
+matplotlib_inline==0.1.6
+seaborn==0.12.2
+scikit-learn==1.2.0

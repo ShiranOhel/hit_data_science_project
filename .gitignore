@@ -1,0 +1,5 @@
+# Ignore these files
+
+venv
+debug
+.ipynb_checkpoints
